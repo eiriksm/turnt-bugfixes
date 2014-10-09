@@ -1,0 +1,23 @@
+{
+  "name": "turnt-bugfixes",
+  "version": "1.0.0",
+  "description": "turnt-bugfixes ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eiriksm/turnt-bugfixes.git"
+  },
+  "author": "Eirik S. Morland <eirik@morland.no>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eiriksm/turnt-bugfixes/issues"
+  },
+  "homepage": "https://github.com/eiriksm/turnt-bugfixes",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
