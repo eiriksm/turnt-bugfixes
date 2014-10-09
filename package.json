@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/eiriksm/turnt-bugfixes",
   "devDependencies": {
+    "istanbul": "^0.3.2",
     "mocha": "^1.21.4",
     "should": "^4.0.4"
   }
