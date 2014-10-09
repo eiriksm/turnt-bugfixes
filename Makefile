@@ -5,4 +5,8 @@ test-cov:
 test:
 	npm test
 
-.PHONY: test test-cov
+ci:
+	make test-cov
+	./node_modules/browserify/bin/cmd.js test/test.js -o browser.js &&  karma start --browsers=PhantomJS karma.conf.js
+
+.PHONY: test test-cov ci
