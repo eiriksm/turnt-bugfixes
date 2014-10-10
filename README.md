@@ -4,3 +4,12 @@ turnt-bugfixes
 [![devDependency Status](https://david-dm.org/eiriksm/turnt-bugfixes/dev-status.svg)](https://david-dm.org/eiriksm/turnt-bugfixes#info=devDependencies)
 [![Coverage Status](https://img.shields.io/coveralls/eiriksm/turnt-bugfixes.svg)](https://coveralls.io/r/eiriksm/turnt-bugfixes)
 [![Code Climate](https://codeclimate.com/github/eiriksm/turnt-bugfixes/badges/gpa.svg)](https://codeclimate.com/github/eiriksm/turnt-bugfixes)
+
+## Links to tools used.
+[Mocha](http://visionmedia.github.io/mocha/)
+[Istanbul](http://gotwarlost.github.io/istanbul/)
+[Lab](https://github.com/hapijs/lab)
+[Karma](http://karma-runner.github.io/)
+
+## Links to services used
+Click the badges above.
