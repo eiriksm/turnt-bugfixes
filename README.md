@@ -6,7 +6,7 @@ turnt-bugfixes
 [![Code Climate](https://codeclimate.com/github/eiriksm/turnt-bugfixes/badges/gpa.svg)](https://codeclimate.com/github/eiriksm/turnt-bugfixes)
 
 ## Links to tools used.
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [Istanbul](http://gotwarlost.github.io/istanbul/)
 - [Lab](https://github.com/hapijs/lab)
 - [Karma](http://karma-runner.github.io/)
